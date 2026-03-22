@@ -10,6 +10,7 @@
 
 ## 📌 Introduction
 This repository contains practice exercises for the **Object-Oriented Programming (OOP)** course.
+This is **Lab 1 Practice Exercise (BTTH LAB 1)**
 
 ---
 
